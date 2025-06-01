@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+.mat-mdc-row:nth-child(odd){
+    background-color: #ffd8d8 !important;
+}
+.mat-mdc-row:nth-child(even){
+    background-color: #fac7ff !important;
+}
+
+.mat-mdc-header-row{
+    background-color: rgb(93, 158, 255) !important;
+}
+.mat-mdc-cell{
+ border:none !important;
+}
+.navbar{
+    background-color: beige !important;
+}
